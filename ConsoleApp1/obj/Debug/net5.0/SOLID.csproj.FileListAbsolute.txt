@@ -14,3 +14,11 @@ C:\Projetos\SOLID\SOLID\ConsoleApp1\obj\Debug\net5.0\refint\SOLID.dll
 C:\Projetos\SOLID\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.pdb
 C:\Projetos\SOLID\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.genruntimeconfig.cache
 C:\Projetos\SOLID\SOLID\ConsoleApp1\obj\Debug\net5.0\ref\SOLID.dll
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.csproj.AssemblyReference.cache
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.AssemblyInfoInputs.cache
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.AssemblyInfo.cs
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.csproj.CoreCompileInputs.cache
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.dll
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\refint\SOLID.dll
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.pdb

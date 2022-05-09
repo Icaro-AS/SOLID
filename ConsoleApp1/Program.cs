@@ -1,4 +1,4 @@
-﻿using SOLID._3_LSP.Solucao;
+﻿using SOLID._3_LSP.Problema;
 using System;
 
 namespace SOLID
@@ -7,10 +7,7 @@ namespace SOLID
     {
         static void Main(string[] args)
         {
-            //Violação Lsp 
-            Fatura faturaParcelada = new ParcelarEmSeisVezes();
-            faturaParcelada.FaturaValor = 500.00m;
-            Console.WriteLine(faturaParcelada.ParcelarFatura(faturaParcelada.FaturaValor)); 
+            //Testes
         }
     }
 }
