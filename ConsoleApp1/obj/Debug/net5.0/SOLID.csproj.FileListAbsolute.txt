@@ -22,3 +22,11 @@ C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.csproj.C
 C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.dll
 C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\refint\SOLID.dll
 C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.pdb
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\bin\Debug\net5.0\SOLID.exe
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\bin\Debug\net5.0\SOLID.deps.json
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\bin\Debug\net5.0\SOLID.runtimeconfig.json
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\bin\Debug\net5.0\SOLID.runtimeconfig.dev.json
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\bin\Debug\net5.0\SOLID.dll
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\bin\Debug\net5.0\SOLID.pdb
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\SOLID.genruntimeconfig.cache
+C:\EngenhariaDeSoftware\DotNet\SOLID\ConsoleApp1\obj\Debug\net5.0\ref\SOLID.dll
