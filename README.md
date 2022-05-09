@@ -11,7 +11,7 @@ Nas palavras do próprio "Uncle Bob":
     On the other hand, when dependencies are well managed, the code remains flexible, robust,and reusable. So dependency management, 
     and therefore these principles, are at the foudation of the -ilities that software developers desire."
     
-Resumindo ao aplicarmos os padrões solid buscados criar aplicações com responsabilidades segregadas, dimunição de dependências mais flexíveis para
+Resumindo ao aplicarmos os padrões solid buscamos criar aplicações com responsabilidades segregadas, dimunição de dependências mais flexíveis para
 crescerem com rosbustez e reuso de código. Isso tudo facilita muito a implantação de teste unitários. 
 
 O Que vem a ser cada letra do Acrônimo. Segue Abaixo:
