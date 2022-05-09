@@ -1,5 +1,6 @@
 
 Projeto que expõe problemas de design e propõe soluções usando os princípios SOLID.
+
 SOLID é um acrônimo de cinco princípios da orientação a objetos e design de código definidos por Robert C. Martin.
 
 Nas palavras do próprio "Uncle Bob":
